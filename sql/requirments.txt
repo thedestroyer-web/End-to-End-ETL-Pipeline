@@ -1,0 +1,3 @@
+Pnadas
+Numpy
+mysql-connector-python
